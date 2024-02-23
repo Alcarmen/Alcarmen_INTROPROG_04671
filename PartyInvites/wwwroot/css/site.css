@@ -20,3 +20,19 @@ html {
 body {
   margin-bottom: 60px;
 }
+.input-validation-error{
+    border: 1px solid #f00;
+    background-color: #fee;
+}.field-validation-error{
+     color:#f00;
+ }
+ .field-validation-valid{
+     display:none;
+ }
+ .validation-summary-error{
+     font-weight:bold;
+     color:#f00;
+ }
+ .validation-summary-valid{
+     display:none;
+ }

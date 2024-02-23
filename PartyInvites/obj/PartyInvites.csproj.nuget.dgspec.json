@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\63921\\Desktop\\ASPNET\\PartyInvites\\PartyInvites.csproj": {}
+    "C:\\Users\\UU642\\Documents\\GitHub\\Alcarmen_INTROPROG_04671\\PartyInvites\\PartyInvites.csproj": {}
   },
   "projects": {
-    "C:\\Users\\63921\\Desktop\\ASPNET\\PartyInvites\\PartyInvites.csproj": {
+    "C:\\Users\\UU642\\Documents\\GitHub\\Alcarmen_INTROPROG_04671\\PartyInvites\\PartyInvites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\63921\\Desktop\\ASPNET\\PartyInvites\\PartyInvites.csproj",
+        "projectUniqueName": "C:\\Users\\UU642\\Documents\\GitHub\\Alcarmen_INTROPROG_04671\\PartyInvites\\PartyInvites.csproj",
         "projectName": "PartyInvites",
-        "projectPath": "C:\\Users\\63921\\Desktop\\ASPNET\\PartyInvites\\PartyInvites.csproj",
-        "packagesPath": "C:\\Users\\63921\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\63921\\Desktop\\ASPNET\\PartyInvites\\obj\\",
+        "projectPath": "C:\\Users\\UU642\\Documents\\GitHub\\Alcarmen_INTROPROG_04671\\PartyInvites\\PartyInvites.csproj",
+        "packagesPath": "C:\\Users\\UU642\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UU642\\Documents\\GitHub\\Alcarmen_INTROPROG_04671\\PartyInvites\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\63921\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UU642\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
