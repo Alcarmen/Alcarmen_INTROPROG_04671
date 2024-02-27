@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\UU642\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UU642\\Documents\\GitHub\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\PhotoAlbum_Alcarmen.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\PhotoAlbum_Alcarmen.csproj",
       "projectName": "PhotoAlbum_Alcarmen",
-      "projectPath": "C:\\Users\\UU642\\Documents\\GitHub\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\PhotoAlbum_Alcarmen.csproj",
-      "packagesPath": "C:\\Users\\UU642\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UU642\\Documents\\GitHub\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\PhotoAlbum_Alcarmen.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\UU642\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,15 +56,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

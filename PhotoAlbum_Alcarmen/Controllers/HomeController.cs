@@ -22,6 +22,31 @@ namespace PhotoAlbum_Alcarmen.Controllers
         {
             return View();
         }
+        public IActionResult BallZ()
+        {
+            return View();
+        }
+        public IActionResult Bleach()
+        {
+            return View();
+        }
+        public IActionResult BokunoHero()
+        {
+            return View();
+        }
+        public IActionResult BorutoDad()
+        {
+            return View();
+        }
+        public IActionResult OnePiece()
+        {
+            return View();
+        }
+
+
+
+
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
