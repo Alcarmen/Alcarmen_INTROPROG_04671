@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\PhotoAlbum_Alcarmen.csproj",
+      "projectUniqueName": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\PhotoAlbum_Alcarmen.csproj",
       "projectName": "PhotoAlbum_Alcarmen",
-      "projectPath": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\PhotoAlbum_Alcarmen.csproj",
+      "projectPath": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\PhotoAlbum_Alcarmen.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\obj\\",
+      "outputPath": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,15 +14,24 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
-    <style>
-        .photo-gallery {
-            color: #313437;
-            background-color: #fff;
+</head>
+<style>
+    .photo-gallery {
+        color: #313437;
+        width: 100%;
+        max-width: none;
+    }
+
+        .photo-gallery .item img {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+            align-items: center;
+            border: 2px ridge lightblue;
+            border-radius: 5px;
+            margin-top:10px;
         }
 
-        .photo-gallery p {
-            color: #7d8285;
-        }
 
         .photo-gallery h2 {
             font-weight: bold;
@@ -31,56 +40,211 @@
             color: inherit;
         }
 
-
         .photo-gallery .intro {
             font-size: 16px;
             max-width: 500px;
             margin: 0 auto 40px;
         }
 
-        .photo-gallery .intro p {
-            margin-bottom: 0;
-        }
+            .photo-gallery .intro p {
+                margin-bottom: 0;
+            }
 
         .photo-gallery .photos {
-            padding-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
         }
 
         .photo-gallery .item {
-            padding-bottom: 30px;
+            flex: 0 0 calc(25% - 20px); /* Adjust the flex basis to 25% for 4 items per row */
+            margin-bottom: 20px;
+            background-color: black;
+            overflow: hidden;
+            border-radius: 5px;
+            border: 2px ridge lightblue;
         }
 
-        p {
-            text-align: center;
-        }
+    p {
+        text-align: center;
+    }
 
-        h1 {
-            text-align: center;
-        }
-    </style>
-</head>
+    h1 {
+        text-align: center;
+    }
+
+    .lb-close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        color: #fff;
+        font-size: 24px;
+    }
+    body{
+        background-image: url("https://media.wired.com/photos/5c3fa25cc2835a2c29c0dc3b/master/pass/Culture_DragonBallBroly.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+
+    .container-fluid {
+        background-color: rgba(255, 255, 255, 0.5);
+        border-radius: 10px;
+        padding: 20px;
+    }
+</style>
+
 <body>
     <div class="photo-gallery">
-        <div class="container">
+        <div class="container-fluid text-center">
             <div class="intro">
-                <h2 class="text-center">Lightbox Gallery</h2>
-                <p class="text-center">Nunc luctus in metus eget fringilla. Aliquam sed justo ligula. Vestibulum nibh erat, pellentesque ut laoreet vitae. </p>
+                <h1 class="text-center">Dragon Ball Characters</h1>
             </div>
             <div class="row photos">
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="https://w7.pngwing.com/pngs/284/669/png-transparent-vegeta-goku-dragon-ball-z-dokkan-battle-trunks-gohan-vegeta-superhero-cartoon-fictional-character-thumbnail.png" data-lightbox="photos"><img class="img-fluid" src="https://w7.pngwing.com/pngs/284/669/png-transparent-vegeta-goku-dragon-ball-z-dokkan-battle-trunks-gohan-vegeta-superhero-cartoon-fictional-character-thumbnail.png"></a><h1>Vegita:</h1> <br> <p>Vegita Is the Prince of Saiyan... A Race that was feared by their Power Instinct where their limit is still unknown.</p></div>
-                
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="https://w7.pngwing.com/pngs/231/421/png-transparent-dragon-ball-z-lord-veerus-dragon-ball-fighterz-beerus-goku-gohan-trunks-dragon-ball-z-purple-fictional-character-cartoon-thumbnail.png" data-lightbox="photos"><img class="img-fluid" src="https://w7.pngwing.com/pngs/231/421/png-transparent-dragon-ball-z-lord-veerus-dragon-ball-fighterz-beerus-goku-gohan-trunks-dragon-ball-z-purple-fictional-character-cartoon-thumbnail.png"></a></div>
-                
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="https://w7.pngwing.com/pngs/284/669/png-transparent-vegeta-goku-dragon-ball-z-dokkan-battle-trunks-gohan-vegeta-superhero-cartoon-fictional-character-thumbnail.png" data-lightbox="photos"><img class="img-fluid" src="https://w7.pngwing.com/pngs/284/669/png-transparent-vegeta-goku-dragon-ball-z-dokkan-battle-trunks-gohan-vegeta-superhero-cartoon-fictional-character-thumbnail.png"></a></div>
-                
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="https://w7.pngwing.com/pngs/284/669/png-transparent-vegeta-goku-dragon-ball-z-dokkan-battle-trunks-gohan-vegeta-superhero-cartoon-fictional-character-thumbnail.png" data-lightbox="photos"><img class="img-fluid" src="https://w7.pngwing.com/pngs/284/669/png-transparent-vegeta-goku-dragon-ball-z-dokkan-battle-trunks-gohan-vegeta-superhero-cartoon-fictional-character-thumbnail.png"></a></div>
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="https://www.writeups.org/wp-content/uploads/Songoku-age-15-Dragon-Ball.jpg" data-lightbox="photos"><img class="img-fluid" src="https://www.writeups.org/wp-content/uploads/Songoku-age-15-Dragon-Ball.jpg"></a></div>
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="https://qph.cf2.quoracdn.net/main-qimg-1323c11c44aa6429d0448db0c7947fae-lq" data-lightbox="photos"><img class="img-fluid" src="https://qph.cf2.quoracdn.net/main-qimg-1323c11c44aa6429d0448db0c7947fae-lq"></a></div>
+                <!--1-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://www.fightersgeneration.com/nf2/char/dbfz/vegeta/vegeta-dragonballfighterz-official-artwork.jpg" data-lightbox="photos">
+                        <img class="img-fluid custom-image" src="https://www.fightersgeneration.com/nf2/char/dbfz/vegeta/vegeta-dragonballfighterz-official-artwork.jpg">
+                    <h1>Vegita:</h1><hr><p>is the prince of the fallen Saiyan race and the husband of Bulma, the father of Trunks and Bulla, the eldest son of King Vegeta, as well as one of the main characters of the Dragon Ball series.</p>
+                    </a>
+                </div>
+                <!--2-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/736x/77/85/2c/77852c791411c4737d0ca3669212884c.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/736x/77/85/2c/77852c791411c4737d0ca3669212884c.jpg">
+                        <h1>Goku:</h1><hr><p>is a Saiyan raised on Earth and the main protagonist of the Dragon Ball series. He is the second born, as well as youngest son and child of Bardock and Gine, the husband of Chi-Chi, and the father of Gohan and Goten..</p>
+                    </a>
+                </div>
+                <!--3-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://www.fightersgeneration.com/nf2/char/dbfz/gohan/gohan-dragonballfighterz-official-artwork.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://www.fightersgeneration.com/nf2/char/dbfz/gohan/gohan-dragonballfighterz-official-artwork.jpg">
+                        <h1>Gohan:</h1><hr><p>He is the elder son of the series' primary protagonist Goku and his wife Chi-Chi, the older brother of Goten, the husband of Videl and father to Pan.</p>
+                    </a>
+                </div>
+                <!--4-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://www.fightersgeneration.com/nf2/char/dbfz/piccolo/piccolo-infinite-world-artwork.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://www.fightersgeneration.com/nf2/char/dbfz/piccolo/piccolo-infinite-world-artwork.jpg">
+                        <h1>Piccolo:</h1><hr><p> is a Namekian and also the final child and reincarnation of King Piccolo, later becoming the reunification of the Nameless Namekian after fusing with Kami, at which point he was once referred to as Kamiccolo (神コロ様 Kamikoro-sama) by Goku.</p>
+                    </a>
+                </div>
+                <!--5-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/originals/bf/ba/30/bfba309fdd8004f489045f2ae2cfe6a8.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/originals/bf/ba/30/bfba309fdd8004f489045f2ae2cfe6a8.jpg">
+                        <h1>Trunks:</h1><hr><p>is a Saiyan-Earthling hybrid and the son of Vegeta and Bulma, both from an alternate future. By the time Present Trunks was born, the timeline had been drastically altered by Future Trunks' and Cell's trips to the past.</p>
+                    </a>
+                </div>
+                <!--6-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/736x/37/35/d8/3735d89c61b0537ce5e74f4042bb3b6b.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/736x/37/35/d8/3735d89c61b0537ce5e74f4042bb3b6b.jpg">
+                        <h1>Krillin:</h1><hr><p>He's one of the most powerful and talented martial artists on Earth. He is courageous, faithful, and good-natured. Krillin had a brief rivalry with Goku when they first trained under Master Roshi, but they quickly became lifelong best friends,[19] to the point that Goku cares for him as much as his family and closest ones.</p>
+                    </a>
+                </div>
+                <!--7-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/736x/c2/67/82/c26782bac92bf1f2ae293515ce08d1df.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/736x/c2/67/82/c26782bac92bf1f2ae293515ce08d1df.jpg">
+                        <h1>Broly:</h1><hr><p>is a powerful Saiyan mutant and the son of Paragus. He is the latest of Universe 7's Legendary Super Saiyans, demonic Saiyan warriors who appear every 1,000 years.</p>
+                    </a>
+                </div>
+                <!--8-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/736x/ee/6c/70/ee6c700a39f406fb7aad339eb873fa39.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/736x/ee/6c/70/ee6c700a39f406fb7aad339eb873fa39.jpg">
+                        <h1>Black Goku:</h1><hr><p>also known as Zamasu (ザマス Zamasu), though usually referred to as Black (ブラック Burakku), is an alternate incarnation of Zamasu and a former North Kai and Supreme Kai apprentice serving his former master Gowasu from the unaltered main timeline within Universe 10.</p>
+                    </a>
+                </div>
+                <!--9-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://thicc.mywaifulist.moe/waifus/1020/ab1584abbf0e3bafde88de3d2c6f6969f3a7188bb81adaf59e91d6649242024e_thumb.png" data-lightbox="photos">
+                        <img class="img-fluid" src="https://thicc.mywaifulist.moe/waifus/1020/ab1584abbf0e3bafde88de3d2c6f6969f3a7188bb81adaf59e91d6649242024e_thumb.png">
+                        <h1>Android 18:</h1><hr><p>originally named Lazuli (ラズリ Razuri)[4] when she was an ordinary human, is the older twin sister of Android 17 and Dr. Gero's eighteenth android creation, designed to serve Gero's vendetta against Goku.</p>
+                    </a>
+                </div>
+                <!--10-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://www.pngkey.com/png/detail/22-228342_android-17-android-17-in-dragon-ball-z.png" data-lightbox="photos">
+                        <img class="img-fluid" src="https://www.pngkey.com/png/detail/22-228342_android-17-android-17-in-dragon-ball-z.png">
+                        <h1>Android 17:</h1><hr><p>is the younger twin brother of Android 18 and Dr. Gero's seventeenth android creation, designed to serve Gero's vendetta against Goku.</p>
+                    </a>
+                </div>
+                <!--11-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/736x/1c/43/56/1c43561fc6e51b47cbc7b16ca123185b.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/736x/1c/43/56/1c43561fc6e51b47cbc7b16ca123185b.jpg">
+                        <h1>Lord Beerus:</h1><hr><p>is the God of Destruction of Universe 7. He is accompanied by his martial arts teacher and attendant, Whis. Beerus' twin brother is Champa, the God of Destruction of Universe 6.</p>
+                    </a>
+                </div>
+                <!--2-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://e1.pxfuel.com/desktop-wallpaper/872/923/desktop-wallpaper-dragon-ball-super-whis-png-transparent-png-whis-dbz.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://e1.pxfuel.com/desktop-wallpaper/872/923/desktop-wallpaper-dragon-ball-super-whis-png-transparent-png-whis-dbz.jpg">
+                        <h1>Whis:</h1><hr><p>is the Guide Angel Attendant of Universe 7's God of Destruction, Beerus,[7] as well as his Martial Arts teacher. Along with the other angels, he is a child of the Grand Minister. Like all attendants, he is bound to the service of his deity and usually does not leave Beerus unaccompanied.</p>
+                    </a>
+                </div>
+                <!--3-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/736x/14/c8/04/14c804162462c67d252af16cd0ff0417.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/736x/14/c8/04/14c804162462c67d252af16cd0ff0417.jpg">
+                        <h1>Frieza:</h1><hr><p>is the main antagonist of the Dragon Ball series. He is the descendant of Chilled, the youngest son of King Cold, the younger brother of Cooler and the father of Kuriza.</p>
+                    </a>
+                </div>
+                <!--4-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/originals/7f/6d/70/7f6d7084886d77abe43cd4cea5fc582a.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/originals/7f/6d/70/7f6d7084886d77abe43cd4cea5fc582a.jpg">
+                        <h1>Cell:</h1><hr><p> is the ultimate creation of Dr. Gero, designed via cell recombination[2] using the genetics of the greatest fighters that the Remote Tracking Device could find on Earth. The result was a "perfect warrior", possessing numerous favorable genetic traits and special abilities from Goku, Vegeta, Piccolo, Frieza and King Cold.</p>
+                    </a>
+                </div>
+                <!--5-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/736x/98/c2/89/98c289e983fcdf97e1fca1aee06ad215.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/736x/98/c2/89/98c289e983fcdf97e1fca1aee06ad215.jpg">
+                        <h1>Jiren:</h1><hr><p>also known as Jiren the Gray (灰色のジレン Haiiro no Jiren), is the most powerful member of the Pride Troopers. He served as the main fighting antagonist in the Universe Survival Saga and as a major contestant in the Tournament of Power.</p>
+                    </a>
+                </div>
+                <!--6-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/736x/7c/bf/be/7cbfbe90bee80a10b8de873ebedb92de.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/736x/7c/bf/be/7cbfbe90bee80a10b8de873ebedb92de.jpg">
+                        <h1>Zamasu:</h1><hr><p>is the North Kai of Universe 10, as well as the Supreme Kai apprentice from Universe 10 and is also the main antagonist of the "Future" Trunks Saga in Dragon Ball Super. </p>
+                    </a>
+                </div>
+                <!--7-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/736x/db/6b/b6/db6bb68b15eee09c7fb758a30db03d27.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/736x/db/6b/b6/db6bb68b15eee09c7fb758a30db03d27.jpg">
+                        <h1>Kid Buu:</h1><hr><p>this form of Buu's thought process is seen to be irrational and spontaneous, even destroying his own body to destroy the Earth. Although he appears smaller than any other form, he is more dangerous than any other forms of Buu due to his full relentless evil and unpredictability.</p>
+                    </a>
+                </div>
+                <!--8-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/736x/fa/34/87/fa34870f4e55214ca2865a9fd0e68d18.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/736x/fa/34/87/fa34870f4e55214ca2865a9fd0e68d18.jpg">
+                        <h1>Hit:</h1><hr><p>renowned as "Never-Miss Hit" (百発百中のヒット Hyappatsu-hyakuchū no Hitto, lit. "Hit the Infallible") and as the "Legendary Hitman" (伝説の殺し屋 Densetsu no Koroshi-ya, lit. "Legendary Assassin") is the legendary assassin of Universe 6. In addition, he also later on becomes the leader for Team Universe 6.</p>
+                    </a>
+                </div>
+                <!--9-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://i.pinimg.com/736x/56/18/30/56183019d30a5bc674fe615688e15b00.jpg" data-lightbox="photos">
+                        <img class="img-fluid" src="https://i.pinimg.com/736x/56/18/30/56183019d30a5bc674fe615688e15b00.jpg">
+                        <h1>Kale:</h1><hr><p>is a Saiyan from Universe 6 and a member of Team Universe 6. Kale is Caulifla's best friend, sister-figure, and protégée. She is the latest Legendary Saiyan of Universe 6, a demon warrior who appears once every 1,000 years.[5]</p>
+                    </a>
+                </div>
+                <!--10-->
+                <div class="col-sm-6 col-md-4 col-lg-3 item mx-2 my-2">
+                    <a href="https://www.dlf.pt/dfpng/middlepng/74-749244_dragon-ball-caulifla-ssj-hd-png-download.png" data-lightbox="photos">
+                        <img class="img-fluid" src="https://www.dlf.pt/dfpng/middlepng/74-749244_dragon-ball-caulifla-ssj-hd-png-download.png">
+                        <h1>Caulifla:</h1><hr><p>is a Saiyan from Universe 6 and a member of Team Universe 6 who participates in Zeno's Tournament of Power. She is the leader of a gang of Saiyan criminals.</p>
+                    </a>
+                </div>
+
             </div>
-                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="assets/img/desk.jpg" data-lightbox="photos"><img class="img-fluid" src="assets/img/desk.jpg"></a></div>
-            </div>
-            
-        </div>
+        <br />
+    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
