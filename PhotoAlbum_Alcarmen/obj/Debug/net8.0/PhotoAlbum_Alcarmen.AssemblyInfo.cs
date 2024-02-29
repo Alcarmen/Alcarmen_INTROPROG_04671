@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoAlbum_Alcarmen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+603ef7a3665ca0e22f940ea55bf1e28958784abf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoAlbum_Alcarmen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoAlbum_Alcarmen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
