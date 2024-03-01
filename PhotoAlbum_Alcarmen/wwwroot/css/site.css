@@ -32,9 +32,22 @@ body {
     object-fit: cover;
     border:8px ridge black;
 }
-.container-footer{
-    color:black;
-    font-weight:bold;
+.zoom-image:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease; 
+}
+.zoom-container:hover {
+    background-color: white;
+}
+.zoom-container {
+    border: 2px ridge black;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.container-footer {
+    color: black;
+    font-weight: bold;
 }
 header {
     background-color: rgba(0, 0, 0, 0);

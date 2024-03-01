@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\",
+  "WorkspaceRootPath": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\photoalbum_alcarmen\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\alcarmen_introprog_04671\\photoalbum_alcarmen\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\photoalbum_alcarmen\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\alcarmen_introprog_04671\\photoalbum_alcarmen\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\alcarmen_introprog_04671\\photoalbum_alcarmen\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\photoalbum_alcarmen\\views\\home\\omniscic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\home\\omniscic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\photoalbum_alcarmen\\views\\home\\onepiece.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\home\\onepiece.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\photoalbum_alcarmen\\views\\home\\borutodad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\home\\borutodad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\photoalbum_alcarmen\\views\\home\\bleach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\home\\bleach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\photoalbum_alcarmen\\views\\home\\ballz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\alcarmen_introprog_04671\\photoalbum_alcarmen\\views\\home\\ballz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\home\\ballz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\photoalbum_alcarmen\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\alcarmen_introprog_04671\\photoalbum_alcarmen\\views\\home\\bleach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\home\\bleach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\alcarmen_introprog_04671\\photoalbum_alcarmen\\views\\home\\onepiece.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\home\\onepiece.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\alcarmen_introprog_04671\\photoalbum_alcarmen\\views\\home\\borutodad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\home\\borutodad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|d:\\s.y. 2023-2024\\introprog\\alcarmen_introprog_04671\\photoalbum_alcarmen\\views\\home\\omniscic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A186F992-3AFD-42ED-845C-2116D69256AA}|PhotoAlbum_Alcarmen.csproj|solutionrelative:views\\home\\omniscic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,26 +46,27 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "BallZ.cshtml",
-              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\BallZ.cshtml",
+              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\BallZ.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\BallZ.cshtml",
-              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\BallZ.cshtml",
+              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\BallZ.cshtml",
               "RelativeToolTip": "Views\\Home\\BallZ.cshtml",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAowFsAAAAHAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-28T01:14:32.621Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAmwCsAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-29T11:42:19.312Z",
               "EditorCaption": ""
@@ -74,75 +75,76 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "site.css",
-              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAUAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-02-29T11:42:08.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAAYAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwEUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-29T11:38:00.086Z"
+              "WhenOpened": "2024-02-29T11:38:00.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BorutoDad.cshtml",
-              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\BorutoDad.cshtml",
+              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\BorutoDad.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\BorutoDad.cshtml",
-              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\BorutoDad.cshtml",
+              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\BorutoDad.cshtml",
               "RelativeToolTip": "Views\\Home\\BorutoDad.cshtml",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAAAGcAAAAFAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-29T09:52:16.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "OmniScic.cshtml",
-              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\OmniScic.cshtml",
+              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\OmniScic.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\OmniScic.cshtml",
-              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\OmniScic.cshtml",
+              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\OmniScic.cshtml",
               "RelativeToolTip": "Views\\Home\\OmniScic.cshtml",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-28T01:05:56.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "OnePiece.cshtml",
-              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\OnePiece.cshtml",
+              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\OnePiece.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\OnePiece.cshtml",
-              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\OnePiece.cshtml",
+              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\OnePiece.cshtml",
               "RelativeToolTip": "Views\\Home\\OnePiece.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAEUAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-29T09:48:50.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Bleach.cshtml",
-              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\Bleach.cshtml",
+              "DocumentMoniker": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\Bleach.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Bleach.cshtml",
-              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\Views\\Home\\Bleach.cshtml",
+              "ToolTip": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\Views\\Home\\Bleach.cshtml",
               "RelativeToolTip": "Views\\Home\\Bleach.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAYAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-28T01:04:56.149Z",
               "EditorCaption": ""

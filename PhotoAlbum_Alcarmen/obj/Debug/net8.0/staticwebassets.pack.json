@@ -1,679 +1,679 @@
 {
   "Files": [
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PhotoAlbum_Alcarmen.bundle.scp.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PhotoAlbum_Alcarmen.bundle.scp.css",
       "PackagePath": "staticwebassets\\PhotoAlbum_Alcarmen.bundle.scp.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\css\\site.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\favicon.ico",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\17.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\17.png",
       "PackagePath": "staticwebassets\\images\\17.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\18.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\18.jpg",
       "PackagePath": "staticwebassets\\images\\18.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b1.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b1.jpg",
       "PackagePath": "staticwebassets\\images\\b1.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b10.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b10.jpg",
       "PackagePath": "staticwebassets\\images\\b10.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b11.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b11.jpg",
       "PackagePath": "staticwebassets\\images\\b11.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b12.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b12.jpg",
       "PackagePath": "staticwebassets\\images\\b12.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b13.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b13.jpg",
       "PackagePath": "staticwebassets\\images\\b13.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b14.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b14.jpg",
       "PackagePath": "staticwebassets\\images\\b14.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b15.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b15.jpg",
       "PackagePath": "staticwebassets\\images\\b15.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b16.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b16.jpg",
       "PackagePath": "staticwebassets\\images\\b16.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b17.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b17.jpg",
       "PackagePath": "staticwebassets\\images\\b17.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b18.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b18.jpg",
       "PackagePath": "staticwebassets\\images\\b18.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b18.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b18.png",
       "PackagePath": "staticwebassets\\images\\b18.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b19.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b19.jpg",
       "PackagePath": "staticwebassets\\images\\b19.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b19.webp",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b19.webp",
       "PackagePath": "staticwebassets\\images\\b19.webp"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b2.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b2.jpg",
       "PackagePath": "staticwebassets\\images\\b2.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b20.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b20.jpg",
       "PackagePath": "staticwebassets\\images\\b20.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b3.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b3.jpg",
       "PackagePath": "staticwebassets\\images\\b3.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b4.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b4.jpg",
       "PackagePath": "staticwebassets\\images\\b4.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b5.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b5.jpg",
       "PackagePath": "staticwebassets\\images\\b5.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b6.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b6.jpg",
       "PackagePath": "staticwebassets\\images\\b6.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b7.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b7.jpg",
       "PackagePath": "staticwebassets\\images\\b7.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b8.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b8.jpg",
       "PackagePath": "staticwebassets\\images\\b8.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b9.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\b9.jpg",
       "PackagePath": "staticwebassets\\images\\b9.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\background.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\background.jpg",
       "PackagePath": "staticwebassets\\images\\background.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\background1.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\background1.jpg",
       "PackagePath": "staticwebassets\\images\\background1.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\background2.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\background2.png",
       "PackagePath": "staticwebassets\\images\\background2.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\background3.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\background3.jpg",
       "PackagePath": "staticwebassets\\images\\background3.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\background4.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\background4.jpg",
       "PackagePath": "staticwebassets\\images\\background4.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\beerus.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\beerus.jpg",
       "PackagePath": "staticwebassets\\images\\beerus.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\black.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\black.jpg",
       "PackagePath": "staticwebassets\\images\\black.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\broly.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\broly.jpg",
       "PackagePath": "staticwebassets\\images\\broly.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\buu.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\buu.jpg",
       "PackagePath": "staticwebassets\\images\\buu.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\caulifla.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\caulifla.png",
       "PackagePath": "staticwebassets\\images\\caulifla.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\cell.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\cell.jpg",
       "PackagePath": "staticwebassets\\images\\cell.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\frieza.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\frieza.jpg",
       "PackagePath": "staticwebassets\\images\\frieza.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\gohan.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\gohan.jpg",
       "PackagePath": "staticwebassets\\images\\gohan.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\goku.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\goku.jpg",
       "PackagePath": "staticwebassets\\images\\goku.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\hit.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\hit.jpg",
       "PackagePath": "staticwebassets\\images\\hit.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\home.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\home.jpg",
       "PackagePath": "staticwebassets\\images\\home.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\jiren.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\jiren.jpg",
       "PackagePath": "staticwebassets\\images\\jiren.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\kale.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\kale.jpg",
       "PackagePath": "staticwebassets\\images\\kale.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\krillin.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\krillin.jpg",
       "PackagePath": "staticwebassets\\images\\krillin.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n1.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n1.jpg",
       "PackagePath": "staticwebassets\\images\\n1.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n10.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n10.png",
       "PackagePath": "staticwebassets\\images\\n10.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n11.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n11.jpg",
       "PackagePath": "staticwebassets\\images\\n11.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n12.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n12.jpg",
       "PackagePath": "staticwebassets\\images\\n12.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n13.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n13.png",
       "PackagePath": "staticwebassets\\images\\n13.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n14.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n14.jpg",
       "PackagePath": "staticwebassets\\images\\n14.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n15.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n15.png",
       "PackagePath": "staticwebassets\\images\\n15.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n16.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n16.png",
       "PackagePath": "staticwebassets\\images\\n16.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n17.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n17.png",
       "PackagePath": "staticwebassets\\images\\n17.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n18.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n18.jpg",
       "PackagePath": "staticwebassets\\images\\n18.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n19.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n19.png",
       "PackagePath": "staticwebassets\\images\\n19.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n2.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n2.jpg",
       "PackagePath": "staticwebassets\\images\\n2.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n20.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n20.png",
       "PackagePath": "staticwebassets\\images\\n20.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n3.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n3.jpg",
       "PackagePath": "staticwebassets\\images\\n3.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n4.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n4.jpg",
       "PackagePath": "staticwebassets\\images\\n4.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n5.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n5.jpg",
       "PackagePath": "staticwebassets\\images\\n5.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n6.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n6.jpg",
       "PackagePath": "staticwebassets\\images\\n6.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n7.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n7.png",
       "PackagePath": "staticwebassets\\images\\n7.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n8.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n8.jpg",
       "PackagePath": "staticwebassets\\images\\n8.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n9.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\n9.png",
       "PackagePath": "staticwebassets\\images\\n9.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o1.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o1.jpg",
       "PackagePath": "staticwebassets\\images\\o1.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o10.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o10.jpg",
       "PackagePath": "staticwebassets\\images\\o10.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o11.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o11.jpg",
       "PackagePath": "staticwebassets\\images\\o11.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o12.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o12.jpg",
       "PackagePath": "staticwebassets\\images\\o12.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o13.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o13.jpg",
       "PackagePath": "staticwebassets\\images\\o13.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o14.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o14.jpg",
       "PackagePath": "staticwebassets\\images\\o14.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o15.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o15.jpg",
       "PackagePath": "staticwebassets\\images\\o15.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o16.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o16.jpg",
       "PackagePath": "staticwebassets\\images\\o16.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o17.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o17.jpg",
       "PackagePath": "staticwebassets\\images\\o17.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o18.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o18.jpg",
       "PackagePath": "staticwebassets\\images\\o18.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o19.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o19.jpg",
       "PackagePath": "staticwebassets\\images\\o19.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o2.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o2.jpg",
       "PackagePath": "staticwebassets\\images\\o2.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o20.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o20.jpg",
       "PackagePath": "staticwebassets\\images\\o20.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o3.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o3.jpg",
       "PackagePath": "staticwebassets\\images\\o3.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o4.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o4.jpg",
       "PackagePath": "staticwebassets\\images\\o4.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o5.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o5.jpg",
       "PackagePath": "staticwebassets\\images\\o5.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o6.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o6.jpg",
       "PackagePath": "staticwebassets\\images\\o6.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o7.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o7.jpg",
       "PackagePath": "staticwebassets\\images\\o7.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o8.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o8.jpg",
       "PackagePath": "staticwebassets\\images\\o8.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o9.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\o9.jpg",
       "PackagePath": "staticwebassets\\images\\o9.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op1.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op1.jpg",
       "PackagePath": "staticwebassets\\images\\op1.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op10.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op10.png",
       "PackagePath": "staticwebassets\\images\\op10.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op11.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op11.jpg",
       "PackagePath": "staticwebassets\\images\\op11.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op12.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op12.jpg",
       "PackagePath": "staticwebassets\\images\\op12.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op13.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op13.jpg",
       "PackagePath": "staticwebassets\\images\\op13.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op14.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op14.jpg",
       "PackagePath": "staticwebassets\\images\\op14.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op15.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op15.jpg",
       "PackagePath": "staticwebassets\\images\\op15.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op16.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op16.jpg",
       "PackagePath": "staticwebassets\\images\\op16.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op17.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op17.jpg",
       "PackagePath": "staticwebassets\\images\\op17.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op18.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op18.jpg",
       "PackagePath": "staticwebassets\\images\\op18.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op19.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op19.png",
       "PackagePath": "staticwebassets\\images\\op19.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op2.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op2.jpg",
       "PackagePath": "staticwebassets\\images\\op2.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op20.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op20.jpg",
       "PackagePath": "staticwebassets\\images\\op20.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op3.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op3.jpg",
       "PackagePath": "staticwebassets\\images\\op3.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op4.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op4.jpg",
       "PackagePath": "staticwebassets\\images\\op4.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op5.png",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op5.png",
       "PackagePath": "staticwebassets\\images\\op5.png"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op6.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op6.jpg",
       "PackagePath": "staticwebassets\\images\\op6.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op7.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op7.jpg",
       "PackagePath": "staticwebassets\\images\\op7.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op8.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op8.jpg",
       "PackagePath": "staticwebassets\\images\\op8.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op9.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\op9.jpg",
       "PackagePath": "staticwebassets\\images\\op9.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\piccolo.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\piccolo.jpg",
       "PackagePath": "staticwebassets\\images\\piccolo.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\trunks.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\trunks.jpg",
       "PackagePath": "staticwebassets\\images\\trunks.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\vegeta.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\vegeta.jpg",
       "PackagePath": "staticwebassets\\images\\vegeta.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\whis.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\whis.jpg",
       "PackagePath": "staticwebassets\\images\\whis.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\images\\zamasu.jpg",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\images\\zamasu.jpg",
       "PackagePath": "staticwebassets\\images\\zamasu.jpg"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\js\\site.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\S.Y. 2023-2024\\IntroProg\\Alcarmen_INTROPROG_04671\\PhotoAlbum_Alcarmen\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
