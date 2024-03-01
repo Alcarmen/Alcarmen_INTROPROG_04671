@@ -47,7 +47,7 @@ li {
     border-radius:5px;
 }
 .navbar-nav .nav-item {
-    margin-right: 15px; 
+    margin-right: 25px; 
 }
 
     .navbar-nav .nav-item:hover {
@@ -60,6 +60,14 @@ li {
     -webkit-text-stroke: 1px black; 
     background-clip: text;
     text-shadow: 2px 2px 4px white; 
+}
+.navbar-brand.bold-text {
+    text-shadow: 4px 0px 4px white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    -webkit-text-stroke: 50% white;
+    font-size:30px;
+
 }
 
  
